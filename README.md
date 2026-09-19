@@ -212,3 +212,263 @@ between document retrieval, Text-to-SQL and hybrid execution.
                      │
                      ▼
               Citations + SQL
+````
+
+**Highlights**
+
+* 🧩 LangGraph multi-agent orchestration
+* 🔎 Semantic document retrieval
+* 🗄️ Natural language → SQL
+* 🛡️ SQL validation with SQLGlot
+* 📊 Confidence scoring
+* 🔭 Langfuse tracing
+* 🧪 RAGAS / SQL evaluation
+* 🐳 Production-style deployment
+
+---
+
+## 🔥 Early Fire & Smoke Detection
+
+**YOLOv8 • PyTorch • OpenCV • Roboflow**
+
+Real-time computer vision pipeline for detecting fire and smoke
+in video streams.
+
+**Performance**
+
+* 🎯 mAP50: **85.7%**
+* 🎯 Precision: **82.8%**
+* 🎯 Recall: **87.8%**
+* 📹 Real-time video inference
+* 📦 Custom annotated dataset
+* ⚙️ Automated evaluation runner
+
+---
+
+## 🛡️ AI-Powered Wazuh Security Layer
+
+**Wazuh • Python • PyTorch • MCP • LLMs • MITRE ATT&CK**
+
+Building an AI layer on top of a clustered Wazuh SIEM architecture.
+
+### Multi-Agent Security Architecture
+
+```text
+                ┌──────────────────────┐
+                │     Wazuh Cluster    │
+                │      5 VM System     │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │     Agent 1          │
+                │    Categorization    │
+                │                      │
+                │ Normal / Problematic │
+                └──────────┬───────────┘
+                           │
+                    Suspicious Events
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │     Agent 2          │
+                │    Classification    │
+                │                      │
+                │   Threat Category    │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │     Agent 3          │
+                │   Reconciliation     │
+                │                      │
+                │ Context + Decision   │
+                └──────────┬───────────┘
+                           │
+                           ▼
+                Human-in-the-Loop
+                           │
+              Observe → Recommend
+                    → Approval
+                    → Auto-Safe
+```
+
+---
+
+# 🧰 Technology Stack
+
+<div align="center">
+
+### 🤖 AI / LLM / Agentic
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### 👁️ Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge)
+
+### 🔎 Retrieval & Vector Databases
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+
+### ⚙️ Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,typescript,docker,linux,git,github,postgres,mysql" />
+
+### 📊 Data & ML
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+
+</div>
+
+---
+
+# 🧪 Engineering Philosophy
+
+```text
+Research
+   ↓
+Experiment
+   ↓
+Benchmark
+   ↓
+Evaluate
+   ↓
+Engineer
+   ↓
+Deploy
+   ↓
+Monitor
+   ↓
+Improve
+```
+
+I care about more than model accuracy.
+
+I focus on:
+
+**Reliability • Evaluation • Explainability • Security • Observability
+• Reproducibility • Production Readiness**
+
+---
+
+# 📚 Research & Publications
+
+### 📄 Ethics of Generative AI in Marketing
+
+**Namal Business Conference 2026 — Technology & Innovation**
+
+Research exploring ethical GenAI implementation through a
+multi-stakeholder framework.
+
+Key contribution:
+
+* 47 case studies evaluated
+* 23 ethical models reviewed
+* Multi-Stakeholder Ethical Framework
+* 12 ethical deployment checkpoints
+* 89% coverage of identified GenAI ethical concerns
+
+---
+
+# 🏆 Achievements
+
+| Achievement       | Details                                        |
+| ----------------- | ---------------------------------------------- |
+| 🥈 ICAT 2024      | 2nd Prize — Gesture-Controlled Smart Home      |
+| 🔬 Research       | Namal Business Conference 2026                 |
+| 🧠 AI Engineering | Production-oriented Agentic AI & RAG systems   |
+| 🔐 Biometrics     | Custom palm-vein dataset + NIR hardware system |
+| 🛡️ Cybersecurity | AI layer for clustered Wazuh SIEM              |
+| 🤖 Voice AI       | Kafeel agent for Pakistan Sweet Home           |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saudakbar484&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saudakbar484&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saudakbar484&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saudakbar484&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saudakbar484&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" />
+
+</div>
+
+---
+
+# 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://saud-akbar.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Saud%20Akbar-00D9FF?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/saud-akbar/">
+<img src="https://img.shields.io/badge/LinkedIn-Saud%20Akbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:saudakbar65367@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/saudakbar484">
+<img src="https://img.shields.io/badge/GitHub-saudakbar484-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building AI systems that don't just answer — they reason, retrieve, act, and deliver.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer" width="100%" />
+
+</div>
