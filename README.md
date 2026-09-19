@@ -331,36 +331,6 @@ Research coverage included:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saudakar484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Saud Akbar GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saudakar484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saudakar484&theme=tokyo-night&hide_border=true&area=true&custom_title=Saud%20Akbar%20-%20Contribution%20Activity" alt="Contribution Activity"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saudakar484&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 # 🎓 Education
 
 **BS Artificial Intelligence — National University of Technology (NUTECH)**  
