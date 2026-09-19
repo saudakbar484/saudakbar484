@@ -1,462 +1,404 @@
 <div align="center">
 
-# 👋 Hi, I'm Saud Akbar
+# SAUD AKBAR
 
-### 🤖 AI Engineer • Agentic AI Engineer • RAG • Computer Vision • ML Systems
-
-<p>
-  <b>Building intelligent systems that move from research → reasoning → action → production.</b>
-</p>
+### AI Engineer · Agentic AI Engineer · RAG · Computer Vision · Full-Stack ML Systems
 
 <p>
   <a href="https://saud-akbar.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-00D9FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/saud-akbar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/saud-akbar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:saudakbar65367@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/saudakbar484">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/saudakar484">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Designing+Production+RAG+Pipelines+%F0%9F%A7%A0;Engineering+Computer+Vision+Systems+%F0%9F%91%81%EF%B8%8F;Building+AI-Powered+Security+Systems+%F0%9F%94%90;Turning+Models+Into+Real+Products+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="850">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Building+Agentic+AI+Systems;RAG+%7C+LLM+Agents+%7C+Multi-Agent+Orchestration;Computer+Vision+%7C+Applied+Machine+Learning;Production-Grade+AI+APIs+%26+MLOps" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I'm an **AI Engineer & Agentic AI Engineer** focused on building end-to-end intelligent systems across:
+I am an **AI Engineer / Agentic AI Engineer** focused on building practical AI systems that move beyond standalone models into **reasoning, retrieval, tool use, orchestration, evaluation, and production deployment**.
 
-- 🤖 **Agentic AI & LLM Systems**
-- 🔎 **Retrieval-Augmented Generation (RAG)**
-- 🧩 **Multi-Agent Orchestration**
-- 👁️ **Computer Vision & Biometrics**
-- 🧠 **Machine Learning & Deep Learning**
-- 🔐 **AI-Powered Cybersecurity**
-- ⚙️ **Production AI APIs & Microservices**
-- 📦 **MLOps & Model Lifecycle Management**
+My work spans:
 
-I enjoy taking AI systems beyond notebooks and prototypes — designing the
-**data pipeline, model layer, reasoning layer, APIs, infrastructure, evaluation,
-and deployment architecture** required to make them usable in real environments.
+- 🤖 Agentic AI, LLM applications & multi-agent systems
+- 🔎 RAG, semantic retrieval & grounded question answering
+- 👁️ Computer vision & real-time biometric systems
+- 🧠 Deep learning and applied machine learning
+- 🛡️ AI-powered cybersecurity / SIEM systems
+- ⚙️ FastAPI, microservices, Docker & MLOps
+- 📊 AI evaluation, benchmarking & verification
+- 💻 Full-stack AI applications
 
-Currently exploring deeper applications of **Agentic AI, RAG, LLM evaluation,
-AI security, computer vision, and production ML systems.**
+I enjoy taking an AI idea from **research → architecture → implementation → evaluation → deployment**.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Current Focus
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Agentic AI
-
-- Multi-agent systems
-- Tool calling
-- LangGraph workflows
-- LLM orchestration
-- AI agents
-- Human-in-the-loop systems
-- Voice AI agents
-
-</td>
-
-<td width="50%">
-
-### 🧠 RAG & LLM Engineering
-
-- Production RAG
-- Semantic search
-- Vector databases
-- Reranking
-- Text-to-SQL
-- Local LLM inference
-- LLM evaluation
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 👁️ Computer Vision
-
-- Palm-vein biometrics
-- Real-time detection
-- Image preprocessing
-- Face & emotion analysis
-- Object detection
-- Medical imaging
-- MediaPipe systems
-
-</td>
-
-<td>
-
-### 🔐 AI + Cybersecurity
-
-- AI-powered SIEM
-- Wazuh
-- Threat classification
-- Anomaly detection
-- MITRE ATT&CK
-- Security automation
-- MCP-based security workflows
-
-</td>
-</tr>
-</table>
+| Area | What I'm Building |
+|---|---|
+| 🤖 Agentic AI | LLM agents, tool calling, multi-agent orchestration and autonomous workflows |
+| 🔎 RAG | Enterprise document intelligence, grounded retrieval and reasoning |
+| 🛡️ AI Security | Multi-agent AI layer over Wazuh SIEM for security event analysis |
+| 👁️ Computer Vision | Real-time palm-vein biometric identification and verification |
+| 📊 AI Evaluation | Deterministic/dynamic verifiers, AST analysis and anti-reward-hacking evaluation |
+| ⚙️ MLOps | Model registries, drift monitoring, retraining triggers and reproducible pipelines |
+| 🧩 Enterprise AI | Production APIs, databases, vector search and full-stack AI platforms |
 
 ---
 
-# 🏗️ Featured Projects
+# ⭐ Featured Engineering Projects
 
-## 🏢 PeopleAI — Enterprise Workforce Intelligence Platform
+## 🧑‍💼 PeopleAI — Enterprise Workforce Intelligence
 
-**Vue 3 • TypeScript • Laravel • FastAPI • XGBoost • SHAP • ChromaDB • Groq**
-
-Enterprise HR-tech platform supporting workforce analytics and intelligent
-employee workflows.
+An enterprise workforce intelligence and employee-experience platform combining predictive ML, explainability, anomaly detection and policy-grounded RAG.
 
 **Highlights**
+- 1,000+ seeded employees
+- XGBoost employee-turnover model
+- **ROC-AUC: 0.942**
+- SHAP-based local explainability
+- Isolation Forest anomaly detection
+- Policy-grounded RAG assistant
+- Champion/candidate model registry
+- PSI-based model drift monitoring
 
-- 👥 1,000+ seeded employees
-- 📈 Employee turnover prediction
-- 🎯 ROC-AUC **0.942**
-- 🔍 SHAP-based explainability
-- 🚨 Isolation Forest anomaly detection
-- 🧠 Policy-grounded RAG assistant
-- 📊 PSI-based model drift monitoring
-- 🔄 Champion / candidate model registry
-
----
-
-## 🔐 Palm Vein Recognition System
-
-**PyTorch • EfficientNet-B0 • CBAM • OpenCV • NIR Hardware**
-
-Real-time biometric authentication and identification using
-near-infrared palm-vein imaging.
-
-**Highlights**
-
-- 👁️ Custom NIR hardware integration
-- 🖐️ Real-time palm-vein recognition
-- 🎯 ~98% validation accuracy
-- 📉 EER: **0.204**
-- 🔍 ROI extraction & image preprocessing
-- 🔐 1:1 verification
-- 🔎 1:N identification
-- 📦 3,000+ image biometric dataset
-- 🌍 130+ subjects
-
----
-
-## 🤖 Kafeel — Agentic Voice AI
-
-**Python • LiveKit • Deepgram • RAG • FastAPI**
-
-A voice AI agent designed for Pakistan Sweet Home to handle
-information, donation, and child-sponsorship conversations.
-
-**Highlights**
-
-- 🎙️ Real-time voice interaction
-- 🧠 RAG-powered knowledge retrieval
-- 💬 Natural conversational workflow
-- 🇵🇰 English / Urdu interaction
-- 🔎 Session-state tracking
-- ✅ Confirm-before-commit architecture
-- 🛡️ Prevents false success reporting
-- ⚙️ Tool-driven agent workflow
-
----
-
-## 🧠 Enterprise RAG + Text-to-SQL
-
-**FastAPI • LangGraph • PostgreSQL • Qdrant • Groq • Langfuse • SQLGlot**
-
-A multi-agent AI platform capable of routing natural-language questions
-between document retrieval, Text-to-SQL and hybrid execution.
-
-```text
-                 User Query
-                     │
-                     ▼
-              ┌──────────────┐
-              │ Intent Router│
-              └──────┬───────┘
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       RAG Agent   SQL Agent   Hybrid
-          │          │          │
-          ▼          ▼          ▼
-       Qdrant    PostgreSQL   Combined
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-              Grounded Answer
-                     │
-                     ▼
-              Citations + SQL
-````
-
-**Highlights**
-
-* 🧩 LangGraph multi-agent orchestration
-* 🔎 Semantic document retrieval
-* 🗄️ Natural language → SQL
-* 🛡️ SQL validation with SQLGlot
-* 📊 Confidence scoring
-* 🔭 Langfuse tracing
-* 🧪 RAGAS / SQL evaluation
-* 🐳 Production-style deployment
-
----
-
-## 🔥 Early Fire & Smoke Detection
-
-**YOLOv8 • PyTorch • OpenCV • Roboflow**
-
-Real-time computer vision pipeline for detecting fire and smoke
-in video streams.
-
-**Performance**
-
-* 🎯 mAP50: **85.7%**
-* 🎯 Precision: **82.8%**
-* 🎯 Recall: **87.8%**
-* 📹 Real-time video inference
-* 📦 Custom annotated dataset
-* ⚙️ Automated evaluation runner
+**Stack:** `Vue 3` `TypeScript` `Laravel 11` `FastAPI` `XGBoost` `SHAP` `Isolation Forest` `ChromaDB` `Groq`
 
 ---
 
 ## 🛡️ AI-Powered Wazuh Security Layer
 
-**Wazuh • Python • PyTorch • MCP • LLMs • MITRE ATT&CK**
+A multi-agent AI security architecture designed around a clustered Wazuh SIEM environment.
 
-Building an AI layer on top of a clustered Wazuh SIEM architecture.
-
-### Multi-Agent Security Architecture
+**Architecture**
 
 ```text
-                ┌──────────────────────┐
-                │     Wazuh Cluster    │
-                │      5 VM System     │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │     Agent 1          │
-                │    Categorization    │
-                │                      │
-                │ Normal / Problematic │
-                └──────────┬───────────┘
-                           │
-                    Suspicious Events
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │     Agent 2          │
-                │    Classification    │
-                │                      │
-                │   Threat Category    │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                ┌──────────────────────┐
-                │     Agent 3          │
-                │   Reconciliation     │
-                │                      │
-                │ Context + Decision   │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                Human-in-the-Loop
-                           │
-              Observe → Recommend
-                    → Approval
-                    → Auto-Safe
+                    ┌──────────────────────┐
+                    │    Wazuh Cluster     │
+                    │   Logs + Security    │
+                    │       Events         │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    Agent 1           │
+                    │ Categorization       │
+                    │ Normal / Problematic │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    Agent 2           │
+                    │ Threat Classification│
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    Agent 3           │
+                    │ Reconciliation /     │
+                    │ Decision Support     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Human-in-the-Loop    │
+                    │ Observe → Recommend  │
+                    │ → Approval → Safe    │
+                    └──────────────────────┘
 ```
+
+**Technologies:** `Wazuh` `Python` `PyTorch` `FastAPI` `MCP` `Docker` `LLMs` `RAG` `MITRE ATT&CK`
+
+---
+
+## 🖐️ Palm Vein Recognition System
+
+A contactless biometric identification and authentication system using near-infrared palm-vein imagery.
+
+**Highlights**
+- Real-time NIR image acquisition
+- 1:1 verification
+- 1:N identification
+- Benchmarking of multiple CNN architectures
+- EfficientNet-B0 + CBAM
+- **~98% validation accuracy**
+- **EER: 0.204**
+- **3,000+ images / 130+ subjects**
+- Published custom dataset
+
+**Stack:** `Python` `PyTorch` `EfficientNet` `CBAM` `OpenCV` `NIR Imaging`
+
+### Dataset
+
+**SASH-VPV — Subcutaneous Vascular Palm Vein Dataset**
+
+<a href="https://www.kaggle.com/datasets/sashinoventures/sash-vpv-subcutaneous-vascular-palm-vein-data">
+<img src="https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset"/>
+</a>
+
+---
+
+## 🎙️ Kafeel — PSH Voice AI Assistant
+
+A production-oriented voice AI assistant for NGO donation and child-sponsorship workflows.
+
+**Highlights**
+- Real-time voice interaction
+- RAG-powered responses
+- Session-state management
+- Confirm-before-commit workflow
+- No optimistic transaction success
+- FastAPI backend
+
+**Stack:** `Python` `LiveKit` `Deepgram` `RAG` `FastAPI`
+
+---
+
+## 🔎 Enterprise RAG + Text-to-SQL
+
+A multi-agent enterprise knowledge system that routes natural-language questions between document retrieval, Text-to-SQL and hybrid reasoning workflows.
+
+**Highlights**
+- Document question answering
+- Natural-language → SQL
+- PostgreSQL integration
+- Qdrant vector retrieval
+- LangGraph routing
+- Grounded answers with citations
+- SQL + confidence output
+- RAGAS / SQL evaluation gates
+- Approx. **5–7s** response latency
+
+**Stack:** `Python` `FastAPI` `LangGraph` `PostgreSQL` `Qdrant` `Groq` `Langfuse` `sqlglot`
+
+---
+
+## 🔥 Early Fire & Smoke Detection
+
+Real-time fire and smoke detection using YOLOv8.
+
+**Results**
+- **mAP50: 85.7%**
+- **Precision: 82.8%**
+- **Recall: 87.8%**
+
+**Stack:** `Python` `PyTorch` `YOLOv8` `Roboflow` `OpenCV` `Ultralytics`
+
+---
+
+## 🏠 Gesture-Controlled Home Automation
+
+Computer-vision-based home automation system using real-time hand landmarks and gesture classification.
+
+🏆 **2nd Prize — ICAT 2024**
+
+**Stack:** `Python` `TensorFlow` `Keras` `MediaPipe` `CNN` `Arduino` `OpenCV`
+
+---
+
+# 🧪 Other AI / ML Projects
+
+| Project | Technologies |
+|---|---|
+| 🩺 Diabetic Retinopathy Detection | PyTorch · EfficientNet-B0 · NSGA-II · Scikit-learn |
+| 😊 Facial Emotion Detection | TensorFlow · Keras · OpenCV · CNN · TTS |
+| 📚 Enterprise RAG API | FastAPI · LangChain · Pinecone · Chroma · OpenAI |
+| 🧠 ML Fundamentals from Scratch | NumPy · Backpropagation · Gradient Descent · K-Means |
+| 🖥️ Full-Stack AI Applications | React · Vue 3 · TypeScript · FastAPI · Node.js |
 
 ---
 
 # 🧰 Technology Stack
 
-<div align="center">
+### 🤖 AI / Agentic AI
 
-### 🤖 AI / LLM / Agentic
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+### 🧠 Machine Learning / Deep Learning
 
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
 ### 👁️ Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge)
+`OpenCV` · `MediaPipe` · `YOLOv8` · `EfficientNet` · `CBAM` · `CNNs` · `Transformers` · `Real-Time Inference` · `ROI Extraction` · `NIR Imaging`
 
-### 🔎 Retrieval & Vector Databases
+### 🔎 Vector Databases / Retrieval
 
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+`Qdrant` · `Pinecone` · `ChromaDB` · `Embeddings` · `Semantic Search` · `Reranking`
 
-### ⚙️ Backend & Infrastructure
+### 🛡️ Cybersecurity / SIEM
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,typescript,docker,linux,git,github,postgres,mysql" />
+`Wazuh` · `MCP` · `MITRE ATT&CK` · `MISP` · `VirusTotal` · `AbuseIPDB` · `MITRE Caldera` · `Atomic Red Team`
 
-### 📊 Data & ML
+### ⚙️ Backend / APIs
 
-<img src="https://skillicons.dev/icons?i=python" />
+`FastAPI` · `Node.js` · `Express.js` · `Laravel 11` · `REST APIs` · `Celery` · `Redis` · `Microservices`
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+### 🚀 MLOps / DevOps
 
-</div>
+`Docker` · `GitHub Actions` · `CI/CD` · `Model Registry` · `PSI Drift Monitoring` · `Retraining Pipelines` · `Ubuntu`
+
+### 💻 Frontend
+
+`React` · `Vue 3` · `Tailwind CSS` · `TypeScript` · `JavaScript` · `Flutter`
+
+### 🗄️ Databases
+
+`PostgreSQL` · `MySQL` · `Firebase` · `SQLite`
 
 ---
 
-# 🧪 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 ```text
 Research
    ↓
-Experiment
+Problem Definition
    ↓
-Benchmark
+Data / Knowledge Layer
    ↓
-Evaluate
+Model / Agent Architecture
    ↓
-Engineer
+Evaluation
    ↓
-Deploy
+API / System Integration
    ↓
-Monitor
+Deployment
    ↓
-Improve
+Monitoring & Continuous Improvement
 ```
 
-I care about more than model accuracy.
+I focus on building systems that are:
 
-I focus on:
-
-**Reliability • Evaluation • Explainability • Security • Observability
-• Reproducibility • Production Readiness**
+- **Grounded** — responses should be connected to reliable data or evidence
+- **Evaluated** — models and agents should be measured, not assumed to work
+- **Observable** — production systems need logs, traces and monitoring
+- **Composable** — complex workflows should be built from clear components
+- **Deployable** — research should translate into usable systems
 
 ---
 
-# 📚 Research & Publications
+# 🔬 Research
 
-### 📄 Ethics of Generative AI in Marketing
+### Ethics of Generative AI in Marketing: A Multi-Stakeholder Approach to Implementation
 
-**Namal Business Conference 2026 — Technology & Innovation**
+**Namal Business Conference (NBC 2026)**  
+Technology & Innovation
 
-Research exploring ethical GenAI implementation through a
-multi-stakeholder framework.
-
-Key contribution:
-
-* 47 case studies evaluated
-* 23 ethical models reviewed
-* Multi-Stakeholder Ethical Framework
-* 12 ethical deployment checkpoints
-* 89% coverage of identified GenAI ethical concerns
+Research coverage included:
+- **47 case studies**
+- **23 ethical models**
+- Reported **89% coverage** compared with **43%** for existing frameworks
 
 ---
 
 # 🏆 Achievements
 
-| Achievement       | Details                                        |
-| ----------------- | ---------------------------------------------- |
-| 🥈 ICAT 2024      | 2nd Prize — Gesture-Controlled Smart Home      |
-| 🔬 Research       | Namal Business Conference 2026                 |
-| 🧠 AI Engineering | Production-oriented Agentic AI & RAG systems   |
-| 🔐 Biometrics     | Custom palm-vein dataset + NIR hardware system |
-| 🛡️ Cybersecurity | AI layer for clustered Wazuh SIEM              |
-| 🤖 Voice AI       | Kafeel agent for Pakistan Sweet Home           |
+- 🥈 **2nd Prize — ICAT 2024**
+- 🖐️ Developed and published a **3,000+ image / 130+ subject** palm-vein dataset
+- 📈 Achieved **0.942 ROC-AUC** in PeopleAI turnover prediction
+- 🔥 Achieved **85.7% mAP50** in fire/smoke detection
+- 👁️ Achieved approximately **98% validation accuracy** in palm-vein recognition
+- 🧪 Worked on AI evaluation and verification systems across multiple domains
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saudakbar484&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saudakar484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Saud Akbar GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saudakbar484&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saudakar484&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
 
-<br><br>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saudakbar484&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saudakar484&theme=tokyo-night&hide_border=true&area=true&custom_title=Saud%20Akbar%20-%20Contribution%20Activity" alt="Contribution Activity"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saudakbar484&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=saudakar484&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎓 Education
 
-<div align="center">
+**BS Artificial Intelligence — National University of Technology (NUTECH)**  
+`Sep 2022 – Jul 2026`
 
-<img src="https://github-profile-trophy.vercel.app/?username=saudakbar484&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" width="95%" />
-
-</div>
+Relevant areas:
+`Data Structures` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `Artificial Neural Networks` · `Software Engineering`
 
 ---
 
-# 🌐 Find Me Online
+# 📜 Certifications
+
+- Deep Learning Specialization — DeepLearning.AI / Coursera
+- Computer Vision with TensorFlow
+- Python for Data Science & AI — IBM / Coursera
+- AI / ML Internship Certifications
+- Web Development Internship Certifications
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://saud-akbar.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Saud%20Akbar-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A0A0A?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/saud-akbar/">
-<img src="https://img.shields.io/badge/LinkedIn-Saud%20Akbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/saud-akbar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saudakar484">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:saudakbar65367@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/saudakbar484">
-<img src="https://img.shields.io/badge/GitHub-saudakbar484-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -465,10 +407,8 @@ Key contribution:
 
 <div align="center">
 
-### 💡 Building AI systems that don't just answer — they reason, retrieve, act, and deliver.
+### Building intelligent systems from research to production.
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer" width="100%" />
+**AI · Agentic Systems · RAG · Computer Vision · MLOps · Cybersecurity**
 
 </div>
